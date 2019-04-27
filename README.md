@@ -52,3 +52,6 @@ Currently, the hyperparameter database analyzes the effect of hyperparameters on
 <li>The model might overfit for the training dataset which will not work well on the test dataset.</li>
 <li>Other challenge would be to tune model and feature parameters well.</li>
 </ul>
+
+
+**Our model output folder was too big for github and was not accepting it. Hence we skipped putting it on github. We have uploaded rest of the files.**
